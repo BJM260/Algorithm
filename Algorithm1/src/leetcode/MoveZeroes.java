@@ -41,6 +41,7 @@ public class MoveZeroes {
                 ++slow;
                 continue;
             }
+            //其实有第三种情况就是nums[fast]等于0，此时fast需寻找非零元素与nums[slow]交换
         }
         return;
     }
