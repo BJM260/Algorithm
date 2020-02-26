@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6678208d-24b5-462d-89ef-91801e98163e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmmaven.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/companytest/CompareVersion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/companytest/DeleteReplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/companytest/FindMidNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/companytest/IPv4Analysis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/companytest/MouseRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/companytest/RoundCalculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/companytest/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/compositor/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/DeleteDuplicatesListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/DeleteDuplicatesListNode2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/FindKthLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/MergeNums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/MoveZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/RemoveDuplicates2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/RemoveElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/SortColors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rememberalgorithm/compositor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithm1/src/companytest/RoundCalculate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithm1/src/companytest/RoundCalculate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithm1/src/rememberalgorithm/compositor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithm1/src/rememberalgorithm/compositor.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Program Files\Maven3.6.3\apache-maven-3.6.3-bin\LocalWarehouse" />
+        <option name="mavenHome" value="D:/Program Files/Maven3.6.3/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Program Files\Maven3.6.3\apache-maven-3.6.3-bin\setting.txt" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YC9bz7eWmwb6FbSGJ6mqkmOKwa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\CodeMan\Algorithm\Algorithm2\src" />
+      <recent name="F:\CodeMan\Algorithm\Algorithm2\src\companytest" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.compositor">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="compositor.Test" />
+      <module name="algorithmmaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="compositor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="compositor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rememberalgorithm.compositor" />
+      <module name="algorithmmaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rememberalgorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.compositor" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6678208d-24b5-462d-89ef-91801e98163e" name="Default Changelist" comment="" />
+      <created>1582435784531</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582435784531</updated>
+      <workItem from="1582435788066" duration="8581000" />
+      <workItem from="1582591301064" duration="13676000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="739" y="295" key="FileChooserDialogImpl" timestamp="1582609298719">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="739" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1582609298719" />
+    <state width="1877" height="363" key="GridCell.Tab.0.bottom" timestamp="1582611448315">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1582611448315" />
+    <state width="1877" height="363" key="GridCell.Tab.0.center" timestamp="1582611448315">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1582611448315" />
+    <state width="1877" height="363" key="GridCell.Tab.0.left" timestamp="1582611448315">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1582611448315" />
+    <state width="1877" height="363" key="GridCell.Tab.0.right" timestamp="1582611448315">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1582611448315" />
+    <state width="1877" height="363" key="GridCell.Tab.1.bottom" timestamp="1582611448315">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1582611448315" />
+    <state width="1877" height="363" key="GridCell.Tab.1.center" timestamp="1582611448315">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1582611448315" />
+    <state width="1877" height="363" key="GridCell.Tab.1.left" timestamp="1582611448315">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1582611448315" />
+    <state width="1877" height="363" key="GridCell.Tab.1.right" timestamp="1582611448315">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1582611448315" />
+    <state x="0" y="118" width="940" height="850" key="SettingsEditor" timestamp="1582592322071">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="0" y="118" width="940" height="850" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1582592322071" />
+    <state x="857" y="521" key="com.intellij.ide.util.TipDialog" timestamp="1582591319302">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="857" y="521" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1582591319302" />
+    <state x="636" y="139" width="647" height="801" key="find.popup" timestamp="1582592134296">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="636" y="139" width="647" height="801" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1582592134296" />
+    <state x="334" y="235" key="new project wizard" timestamp="1582609314361">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="334" y="235" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1582609314361" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/rememberalgorithm/compositor.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
